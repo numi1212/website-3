@@ -4,6 +4,15 @@ execute:
   echo: false
 ---
 
+```{r}
+library(knitr)
+```
+
+```{r}
+knitr::include_graphics("size_v_weight.png")
+```
+
+
 
 
 
